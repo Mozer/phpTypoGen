@@ -1,0 +1,22 @@
+phpTypoGen - Domain typo generator
+
+v1.0 by Mozer / 2012 / GPL2
+
+
+Supported methods:
+mislead zones (.com -> .us)
+general replacements (100-105)
+missed letter (google -> goole)
+letter swap (google -> goolge)
+swap over 1 letter (abc -> cba)
+double to triple (google -> gooogle)
+double to single (google -> gogle)
+double before (google -> ggogle)
+double after (google -> goggle)
+dot missed after www (www.google.com -> wwwgoogle.com)
+general mistakes (100)
+forward qwerty slips (101)
+backward qwerty slips (102)
+1 letter qwerty slips (103)
+additional letter (104)
+vertical qwerty slip (105)
